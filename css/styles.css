@@ -19,12 +19,14 @@ h1 {
   background-color: white;
 }
 h2 {
+  text-align: center;
+  color: white;
   font-family: "Amatic SC", cursive;
   font-family: "Condiment", cursive;
   font-family: "Explora", cursive;
+  font-family: "Grape Nuts", cursive;
+  font-family: "Inspiration", cursive;
   font-family: "Permanent Marker", cursive;
-  text-align: center;
-  color: white;
 }
 p {
   font-style: italic;
@@ -36,7 +38,7 @@ p {
   display: block;
   margin: autopx;
 }
-. content {
+.content {
   display: flex;
   flex-direction: column;
 }
